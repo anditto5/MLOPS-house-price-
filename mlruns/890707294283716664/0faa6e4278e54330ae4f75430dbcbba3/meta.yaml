@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/gito2/Downloads/house_price_prediction/mlruns/890707294283716664/0faa6e4278e54330ae4f75430dbcbba3/artifacts
+end_time: 1754928261460
+entry_point_name: ''
+experiment_id: '890707294283716664'
+lifecycle_stage: active
+run_id: 0faa6e4278e54330ae4f75430dbcbba3
+run_name: big-crab-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754928173216
+status: 3
+tags: []
+user_id: gito2

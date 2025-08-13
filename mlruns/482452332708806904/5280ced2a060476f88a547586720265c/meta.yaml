@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/5280ced2a060476f88a547586720265c/artifacts
+end_time: 1754991230148
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: 5280ced2a060476f88a547586720265c
+run_name: auspicious-panda-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754991123178
+status: 3
+tags: []
+user_id: gito2

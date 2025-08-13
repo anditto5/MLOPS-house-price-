@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/gito2/Downloads/house_price_prediction/mlruns/1/models/m-a193a641666f4b66949c5dc4565e1d0a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-a193a641666f4b66949c5dc4565e1d0a
+model_size_bytes: 4669612
+model_uuid: m-a193a641666f4b66949c5dc4565e1d0a
+prompts: null
+run_id: ec63c64a49bf40b2863179faf80e4b31
+utc_time_created: '2025-08-12 02:08:42.090253'

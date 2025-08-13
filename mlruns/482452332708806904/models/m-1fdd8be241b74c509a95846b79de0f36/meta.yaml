@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/models/m-1fdd8be241b74c509a95846b79de0f36/artifacts
+creation_timestamp: 1755003951335
+experiment_id: '482452332708806904'
+last_updated_timestamp: 1755003958481
+model_id: m-1fdd8be241b74c509a95846b79de0f36
+model_type: null
+name: model
+source_run_id: bad0dbec8bdb46a98da94a8d2a8d18e8
+status: 2
+status_message: null

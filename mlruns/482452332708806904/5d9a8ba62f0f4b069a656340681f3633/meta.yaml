@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/5d9a8ba62f0f4b069a656340681f3633/artifacts
+end_time: 1755003779897
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: 5d9a8ba62f0f4b069a656340681f3633
+run_name: aged-slug-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755003727573
+status: 3
+tags: []
+user_id: gito2

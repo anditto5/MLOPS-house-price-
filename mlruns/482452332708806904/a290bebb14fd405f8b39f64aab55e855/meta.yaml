@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/a290bebb14fd405f8b39f64aab55e855/artifacts
+end_time: 1754997330525
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: a290bebb14fd405f8b39f64aab55e855
+run_name: youthful-vole-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754997280084
+status: 3
+tags: []
+user_id: gito2

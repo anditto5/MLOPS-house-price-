@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/0570ac2c7e1c47b59d8f4a2679fc15fd/artifacts
+end_time: 1754994162858
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: 0570ac2c7e1c47b59d8f4a2679fc15fd
+run_name: adaptable-hawk-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754994008195
+status: 3
+tags: []
+user_id: gito2

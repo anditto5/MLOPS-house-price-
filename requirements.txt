@@ -1,0 +1,8 @@
+# Add Python package requirements here
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+mlflow
+python-json-logger

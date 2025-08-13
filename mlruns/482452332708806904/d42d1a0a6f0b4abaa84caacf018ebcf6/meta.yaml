@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/d42d1a0a6f0b4abaa84caacf018ebcf6/artifacts
+end_time: 1754998392051
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: d42d1a0a6f0b4abaa84caacf018ebcf6
+run_name: shivering-conch-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754998344489
+status: 3
+tags: []
+user_id: gito2

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/416c822a4e5d4373aa01d39065e2341d/artifacts
+end_time: 1755008077412
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: 416c822a4e5d4373aa01d39065e2341d
+run_name: indecisive-worm-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755008014405
+status: 3
+tags: []
+user_id: gito2

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/gito2/Downloads/house_price_prediction/mlruns/890707294283716664
+creation_time: 1754928172782
+experiment_id: '890707294283716664'
+last_update_time: 1754928172782
+lifecycle_stage: active
+name: HousePrices-RF

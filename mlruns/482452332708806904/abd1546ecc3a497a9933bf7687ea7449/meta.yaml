@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gito2/Downloads/house_price_prediction/mlruns/482452332708806904/abd1546ecc3a497a9933bf7687ea7449/artifacts
+end_time: 1754992314460
+entry_point_name: ''
+experiment_id: '482452332708806904'
+lifecycle_stage: active
+run_id: abd1546ecc3a497a9933bf7687ea7449
+run_name: dazzling-ox-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754992195462
+status: 3
+tags: []
+user_id: gito2
